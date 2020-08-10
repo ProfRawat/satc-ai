@@ -1,1 +1,1 @@
-# satc-ai
+# SaTC-AI
